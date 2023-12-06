@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-*[Author](#author)
-*[Project Link](#project-link)
-*[Description](#description)
-*[Technologies](#technologies)
-*[Setup](#setup)
+* [Author](#author)
+* [Project Link](#project-link)
+* [Description](#description)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
 ## Author
 
@@ -14,7 +14,7 @@
 
 ## Project Link
 
-* https://gregreyes.dev/heat-game/
+* https://gregreyes.dev/projects/heat-game/
 
 ## Description
 
@@ -27,6 +27,6 @@ JavaScript
 # Setup
 
 ```sh
-git clone https://github.com/gregoryreyes/heat-game.git
-cd heat-game
+git clone https://github.com/gregoryreyes/heat-game.git;
+cd heat-game;
 ```
